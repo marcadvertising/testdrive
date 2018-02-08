@@ -151,9 +151,12 @@ p {
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-3 .navbar-brand a {
+  font-size: 20px;
+}
 #dropdown-menu-3 .nav .link,
 #dropdown-menu-3 .dropdown-item {
-  font-size: 1em;
+  font-size: 1.8em;
   color: #ffffff;
 }
 #dropdown-menu-3 .navbar,
